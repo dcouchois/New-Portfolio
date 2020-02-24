@@ -11,8 +11,8 @@ function HomePage() {
     return (
         <div className="all-content">
             <div>
-                <h1 className="lat-text">33.979600</h1>
-                <h1 className="long-text">-117.727220</h1>
+                <p className="lat-text">33.979600</p>
+                <p className="long-text">-117.727220</p>
             </div>
             <div>
                 <img src={ProfileImage} alt="cat" className="main-image"></img>

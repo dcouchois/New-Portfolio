@@ -9,13 +9,17 @@ body {
     margin-top: 5%;
 } */
 
+.lat-long-text{
+    justify-content: center;
+}
+
 .lat-text{
-    margin-left: 10%;
+    margin: 2% 0 0 10%;
     font-size: 400%;
 }
 
 .long-text {
-    margin-left: 8.5%;
+    margin: 0 0 2% 8.5%;
     font-size: 400%;
 }
 
@@ -32,7 +36,6 @@ body {
 
 .main-name{
     font-size: 600%;
-    margin-left: 50%;
     margin-right: 53%;
     line-height: 1;
 }
