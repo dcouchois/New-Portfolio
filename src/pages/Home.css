@@ -76,12 +76,20 @@ body {
 
 .c-btn{
     color: #ffffff;
+    text-decoration: none;
 }
 
 .c-btn:hover {
     color: #7a1712;
     text-decoration: none;
 }
+
+.p-title {
+    position: relative;
+    
+}
+
+
 
 @media screen and (max-width: 500px) {
 
