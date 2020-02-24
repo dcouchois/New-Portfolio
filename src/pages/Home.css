@@ -1,0 +1,112 @@
+body {
+    background-color: black;
+    color: #ffffff;
+    width: 100%;
+    height: 100%;
+}
+/* 
+.all-content {
+    margin-top: 5%;
+} */
+
+.lat-text{
+    margin-left: 10%;
+    font-size: 400%;
+}
+
+.long-text {
+    margin-left: 8.5%;
+    font-size: 400%;
+}
+
+.main-image{
+    width: 40%;
+    float: left;
+    margin: 2.8% 0 0 6%;
+    position: absolute;
+}
+
+.name-container {
+    margin-right: 15%;
+}
+
+.main-name{
+    font-size: 600%;
+    margin-left: 50%;
+    margin-right: 53%;
+    line-height: 1;
+}
+
+
+.main-content {
+    float: right;
+    margin: 5% 8% 0 0;
+    width: 40%;
+    border-radius: 10px;
+    position: relative;
+    z-index: 10;
+}
+
+.about-me {
+    margin-right: 10%;
+    text-align: center;
+}
+
+.main-body {
+    margin: 0 auto;
+}
+
+.color-block {
+    background-color: #7a1712;
+    margin: 0% 0% 0% 9%;
+    height: 112%;
+    width: 40%;
+    float: right;
+    position: absolute;
+    z-index: -5;
+}
+
+.contact-title {
+    font-size: 350%;
+}
+
+.c-btn{
+    color: #ffffff;
+}
+
+.c-btn:hover {
+    color: #7a1712;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 500px) {
+
+    .lat-text {
+        font-size: 150%;
+    }
+
+    .long-text {
+        font-size: 150%;
+    }
+
+    .main-image {
+        margin-top: 8%;
+        justify-content: center;
+    }
+
+    .color-block {
+        margin-top: 5%;
+        height: 40%;
+        width: 40%;
+    }
+
+    .main-name {
+        font-size: 200%;
+        margin: 0% 0% 0% 20%; 
+    }
+    
+    .main-body {
+        font-size: 80%;
+        columns: none;
+    }
+  }
