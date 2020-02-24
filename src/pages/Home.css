@@ -9,10 +9,6 @@ body {
     margin-top: 5%;
 } */
 
-.lat-long-text{
-    justify-content: center;
-}
-
 .lat-text{
     margin: 2% 0 0 10%;
     font-size: 400%;
@@ -36,7 +32,7 @@ body {
 
 .main-name{
     font-size: 600%;
-    margin-right: 53%;
+    margin: 0 53% 10% 0;
     line-height: 1;
 }
 
@@ -70,7 +66,12 @@ body {
 }
 
 .contact-title {
+    margin: 5% 0 5% 0;
     font-size: 350%;
+}
+
+.c-links{
+    margin: 0 0 0 2%;
 }
 
 .c-btn{
