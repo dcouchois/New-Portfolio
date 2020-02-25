@@ -87,10 +87,11 @@ body {
 .project-content {
     position: absolute;
     top: 145%;
-    left: 39%;
+    width: 100%;
 }
 
 .p-title {
+    margin-left: 5%;
     font-size: 350%;
 }
 
