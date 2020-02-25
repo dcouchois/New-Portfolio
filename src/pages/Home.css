@@ -84,9 +84,14 @@ body {
     text-decoration: none;
 }
 
+.project-content {
+    position: absolute;
+    top: 145%;
+    left: 39%;
+}
+
 .p-title {
-    position: relative;
-    
+    font-size: 350%;
 }
 
 

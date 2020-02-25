@@ -50,6 +50,9 @@ function HomePage() {
                 <p className="p-title">
                     PROJECTS
                 </p>
+                <h1>
+                    hello world
+                </h1>
             </div>
         </div>
     )
