@@ -50,7 +50,29 @@ function HomePage() {
                 <p className="p-title">
                     PROJECTS
                 </p>
-                
+                <div>
+                    <a href="https://dcouchois.github.io/BreachTheSummit/" target="_blank" rel="noopener noreferrer" className="bts-title">BREACH THE SUMMIT</a>
+                </div>
+                <div className="bts-content">
+                    <Row className="justify-content-md-center">
+                        <Col className="bts-body" xs={6} md={10}></Col>
+                        <h3>Summary</h3>
+                            <p>
+                                Breach the Summit is a simple and intuitive way to find the top ranked hiking trails in your area.
+                                Simply put in the city and state of the desired area you want to find trails in and hover over the icons to inspect the trail's stats.
+                            </p>
+                        <h3>Languages Used</h3>
+                            <ul>
+                                <li>HTML</li>
+                                <li>JavaScript</li>
+                                <li>JQUERY</li>
+                                <li>Materialize</li>
+                                <li>CSS</li>
+                                <li>AJAX</li>
+                                <li>Google Maps API</li>
+                            </ul>
+                    </Row>
+                </div>
             </div>
         </div>
     )

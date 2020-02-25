@@ -91,8 +91,30 @@ body {
 }
 
 .p-title {
-    margin-left: 5%;
+    margin-left: 6%;
     font-size: 350%;
+}
+
+.bts-title {
+    float: left;
+    margin: 1% 0 0 6%;
+    width: 25%;
+    font-size: 500%;
+    line-height: 90%;
+    text-decoration: none;
+    color: #ffffff;
+    border: 2px solid #fff;
+    padding: 15px;
+}
+
+.bts-title:hover {
+    color:#7a1712;
+}
+
+.bts-content {
+    margin: 0 6% 2% 0;
+    width: 55%;
+    float: right;
 }
 
 
