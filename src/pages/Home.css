@@ -117,6 +117,29 @@ body {
     float: right;
 }
 
+.brew-title {
+    width: 25%;
+    font-size: 500%;
+    line-height: 90%;
+    text-decoration: none;
+    color: #ffffff;
+    border: 2px solid #fff;
+    padding: 15px;
+    position: absolute;
+    top: 62%;
+    right: 66.5%;
+}
+
+.brew-title:hover {
+    color:#7a1712;
+}
+
+.brew-content {
+    margin: 0 6% 2% 6%;
+    width: 55%;
+    float: right;
+}
+
 
 
 @media screen and (max-width: 500px) {

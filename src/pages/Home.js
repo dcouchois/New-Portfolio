@@ -73,6 +73,30 @@ function HomePage() {
                             </ul>
                     </Row>
                 </div>
+                <div>
+                    <a href="https://lit-sierra-81900.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="brew-title">CRUISIN FOR A BREWSIN</a>
+                </div>
+                <div className="brew-content">
+                    <Row className="justify-content-md-center">
+                        <Col className="brew-body" xs={6} md={10}></Col>
+                        <h3>Summary</h3>
+                            <p>
+                                Cruisin' for a Brewsin' allows the user to search and locate breweries in their area. 
+                                After the search, you can save any brewery you want to look up later! Cheers!
+                            </p>
+                        <h3>Languages Used</h3>
+                            <ul>
+                                <li>HTML</li>
+                                <li>JavaScript</li>
+                                <li>JQUERY</li>
+                                <li>Bootstrap</li>
+                                <li>CSS</li>
+                                <li>AJAX</li>
+                                <li>Google Maps API</li>
+                                <li>MySQL</li>
+                            </ul>
+                    </Row>
+                </div>
             </div>
         </div>
     )
