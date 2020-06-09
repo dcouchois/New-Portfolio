@@ -126,7 +126,7 @@ body {
     border: 2px solid #fff;
     padding: 15px;
     position: absolute;
-    top: 62%;
+    top: 46%;
     right: 66.5%;
 }
 
@@ -139,6 +139,30 @@ body {
     width: 55%;
     float: right;
 }
+
+.beat-title {
+    width: 25%;
+    font-size: 500%;
+    line-height: 90%;
+    text-decoration: none;
+    color: #ffffff;
+    border: 2px solid #fff;
+    padding: 15px;
+    position: absolute;
+    top: 76%;
+    right: 66.5%;
+}
+
+.beat-title:hover {
+    color:#7a1712;
+}
+
+.beat-content {
+    margin: 0 6% 2% 6%;
+    width: 55%;
+    float: right;
+}
+
 
 
 

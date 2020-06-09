@@ -57,20 +57,20 @@ function HomePage() {
                     <Row className="justify-content-md-center">
                         <Col className="bts-body" xs={6} md={10}></Col>
                         <h3>Summary</h3>
-                            <p>
-                                Breach the Summit is a simple and intuitive way to find the top ranked hiking trails in your area.
-                                Simply put in the city and state of the desired area you want to find trails in and hover over the icons to inspect the trail's stats.
+                        <p>
+                            Breach the Summit is a simple and intuitive way to find the top ranked hiking trails in your area.
+                            Simply put in the city and state of the desired area you want to find trails in and hover over the icons to inspect the trail's stats.
                             </p>
                         <h3>Languages Used</h3>
-                            <ul>
-                                <li>HTML</li>
-                                <li>JavaScript</li>
-                                <li>JQUERY</li>
-                                <li>Materialize</li>
-                                <li>CSS</li>
-                                <li>AJAX</li>
-                                <li>Google Maps API</li>
-                            </ul>
+                        <ul>
+                            <li>HTML</li>
+                            <li>JavaScript</li>
+                            <li>JQUERY</li>
+                            <li>Materialize</li>
+                            <li>CSS</li>
+                            <li>AJAX</li>
+                            <li>Google Maps API</li>
+                        </ul>
                     </Row>
                 </div>
                 <div>
@@ -80,9 +80,9 @@ function HomePage() {
                     <Row className="justify-content-md-center">
                         <Col className="brew-body" xs={6} md={10}></Col>
                         <h3>Summary</h3>
-                            <p>
-                                Cruisin' for a Brewsin' allows the user to search and locate breweries in their area. 
-                                After the search, you can save any brewery you want to look up later! Cheers!
+                        <p>
+                            Cruisin' for a Brewsin' allows the user to search and locate breweries in their area.
+                            After the search, you can save any brewery you want to look up later! Cheers!
                             </p>
                         <h3>Languages Used</h3>
                             <ul>
@@ -94,6 +94,28 @@ function HomePage() {
                                 <li>AJAX</li>
                                 <li>Google Maps API</li>
                                 <li>MySQL</li>
+                        </ul>
+                    </Row>
+                </div>
+                <div>
+                    <a href="https://gentle-atoll-31544.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="beat-title">ICE COLD BEATZ</a>
+                </div>
+                <div className="beat-content">
+                    <Row className="justify-content-md-center">
+                        <Col className="beat-body" xs={6} md={10}></Col>
+                        <h3>Summary</h3>
+                        <p>
+                            Ice Cold Beatz is the premiere way to create music on the go for programmers. Need to get that song laid out and saved later?
+                            Save it to our database and recall it when you need it! No equipment needed, everything you need is already built into the keyboard!
+                            Enjoy!
+                        </p>
+                        <h3>Languages Used</h3>
+                            <ul>
+                                <li>React</li>
+                                <li>React Bootstrap</li>
+                                <li>CSS</li>
+                                <li>AXIOS</li>
+                                <li>MONGO DB</li>
                             </ul>
                     </Row>
                 </div>
