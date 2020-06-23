@@ -86,7 +86,7 @@ body {
 
 .project-content {
     position: absolute;
-    top: 145%;
+    top: 155%;
     width: 100%;
 }
 
@@ -118,7 +118,7 @@ body {
 }
 
 .brew-title {
-    width: 25%;
+    width: 28%;
     font-size: 500%;
     line-height: 90%;
     text-decoration: none;
@@ -127,7 +127,7 @@ body {
     padding: 15px;
     position: absolute;
     top: 46%;
-    right: 66.5%;
+    right: 64.5%;
 }
 
 .brew-title:hover {
@@ -163,7 +163,35 @@ body {
     float: right;
 }
 
+@media screen and (max-width: 1130px) {
 
+    .color-block{
+        height: 75%;
+    }
+
+   .bts-title {
+    font-size: 350%;
+    width: 20%;
+   }
+
+   .brew-title {
+    font-size: 350%;
+    width: 22%;  
+    right: 68.5%;         
+   }
+
+   .beat-title {
+    font-size: 350%;
+    width: 15%;
+    right: 72.5%;  
+   }
+}
+
+@media screen and (max-width: 800px) {
+    .main-name {
+       font-size: 300%; 
+    }
+}
 
 
 @media screen and (max-width: 500px) {
@@ -191,9 +219,44 @@ body {
         font-size: 200%;
         margin: 0% 0% 0% 20%; 
     }
+
+    .bts-title {
+        font-size: 200%;
+        width: 25%;
+    }
+
+    .bts-content {
+        margin: 0 5% 6% 0;
+    }
     
+    .brew-title {
+        font-size: 200%;
+        width: 27%;
+        right: 63.5%;  
+    }
+
+    .brew-content {
+        margin: 4% 5% 6% 0;
+    }
+
+    .beat-title {
+        font-size: 250%;
+        width: 23%;
+        right: 67%;
+    }
+
+    .beat-content {
+
+    }
+
     .main-body {
         font-size: 80%;
         columns: none;
+    }
+
+    .project-content {
+        position: absolute;
+        top: 85%;
+        width: 100%;
     }
   }
