@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/New-Portfolio/static/css/main.eb8ffc38.chunk.css",
+    "main.js": "/New-Portfolio/static/js/main.108c50cb.chunk.js",
+    "main.js.map": "/New-Portfolio/static/js/main.108c50cb.chunk.js.map",
+    "runtime-main.js": "/New-Portfolio/static/js/runtime-main.92e5e09a.js",
+    "runtime-main.js.map": "/New-Portfolio/static/js/runtime-main.92e5e09a.js.map",
+    "static/js/2.f858019f.chunk.js": "/New-Portfolio/static/js/2.f858019f.chunk.js",
+    "static/js/2.f858019f.chunk.js.map": "/New-Portfolio/static/js/2.f858019f.chunk.js.map",
+    "index.html": "/New-Portfolio/index.html",
+    "precache-manifest.d3ab398e4c45aa8049be7d97d415ce0a.js": "/New-Portfolio/precache-manifest.d3ab398e4c45aa8049be7d97d415ce0a.js",
+    "service-worker.js": "/New-Portfolio/service-worker.js",
+    "static/css/main.eb8ffc38.chunk.css.map": "/New-Portfolio/static/css/main.eb8ffc38.chunk.css.map",
+    "static/js/2.f858019f.chunk.js.LICENSE.txt": "/New-Portfolio/static/js/2.f858019f.chunk.js.LICENSE.txt",
+    "static/media/Dillon_Couchois_2020.pdf": "/New-Portfolio/static/media/Dillon_Couchois_2020.30976d89.pdf",
+    "static/media/headshot.JPG": "/New-Portfolio/static/media/headshot.913c691a.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92e5e09a.js",
+    "static/js/2.f858019f.chunk.js",
+    "static/css/main.eb8ffc38.chunk.css",
+    "static/js/main.108c50cb.chunk.js"
+  ]
+}
